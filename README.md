@@ -6,7 +6,7 @@ Hi, I’m Suresh Kumawat
 </a>
 
 <a href="https://github.com/bskumawat09">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskumawat09&hide=ejs&layout=compact&theme=tokyonight" height="195" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskumawat09&hide=ejs&langs_count=3&theme=tokyonight" height="195" />
 </a>
 
 ## Tools and Technologies
@@ -15,7 +15,6 @@ Hi, I’m Suresh Kumawat
 ![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=F1C40F)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=F1C40F)
 ![](https://img.shields.io/badge/Tools-Android-informational?style=flat&logo=android&logoColor=white&color=F1C40F)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=F1C40F)
 
 <!-- <a href="https://github.com/bskumawat09">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bskumawat09&hide=ejs&langs_count=3" />
